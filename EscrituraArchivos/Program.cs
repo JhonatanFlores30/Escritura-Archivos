@@ -11,15 +11,17 @@ namespace EscrituraArchivos
     {
         static void Main(string[] args)
         {
-            StreamWriter sw = new StreamWriter("ejemplo.txt",true);
+            StreamWriter sw = new StreamWriter("ejemplo.txt", true);
             //si el archivo no existe lo creará
             //si ya existe, escribirá en él
+            //true es para agregar y no para sobreescribir
 
-            string[] lines = {
-            "Esta es la nueva escritura",
-            "Esta es la segunda linea",
-            "Fin del texto"
-            };
+            string nombre;
+
+            Console.Write("Ingrese un nombre: ");
+            nombre = Console.ReadLine();
+
+            string[] lines = {nombre};
 
             //recorre en el arreglo
             foreach(string line in lines)

@@ -5,3 +5,10 @@ C:\Users\jhona\Desktop\POO U5\EscrituraArchivos\obj\Debug\EscrituraArchivos.cspr
 C:\Users\jhona\Desktop\POO U5\EscrituraArchivos\obj\Debug\EscrituraArchivos.csproj.CoreCompileInputs.cache
 C:\Users\jhona\Desktop\POO U5\EscrituraArchivos\obj\Debug\EscrituraArchivos.exe
 C:\Users\jhona\Desktop\POO U5\EscrituraArchivos\obj\Debug\EscrituraArchivos.pdb
+C:\Users\jhona\Desktop\GitHub\Escritura-Archivos\EscrituraArchivos\bin\Debug\EscrituraArchivos.exe.config
+C:\Users\jhona\Desktop\GitHub\Escritura-Archivos\EscrituraArchivos\bin\Debug\EscrituraArchivos.exe
+C:\Users\jhona\Desktop\GitHub\Escritura-Archivos\EscrituraArchivos\bin\Debug\EscrituraArchivos.pdb
+C:\Users\jhona\Desktop\GitHub\Escritura-Archivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.csproj.AssemblyReference.cache
+C:\Users\jhona\Desktop\GitHub\Escritura-Archivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.csproj.CoreCompileInputs.cache
+C:\Users\jhona\Desktop\GitHub\Escritura-Archivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.exe
+C:\Users\jhona\Desktop\GitHub\Escritura-Archivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.pdb
